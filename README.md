@@ -74,5 +74,5 @@ Geographical Map: The map visual showing sales density by region.
 
 
 Retailer Analysis: The table or chart comparing performance between retailers like West Gear, Foot Locker, and Walmart.
-Example : 
+Example : https://github.com/kishorereddy7111/Superstore_Sales_Analysis-Dashboard-using-Power-BI/blob/main/Screenshot%202026-03-12%20110252.png
 
